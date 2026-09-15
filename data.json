@@ -1060,4 +1060,18 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     }
+        "llms-txt": "https://www.sedigital.es/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "HostDeFi",
+        "website": "https://hostdefi.com",
+        "llms-txt": "https://hostdefi.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    }
+
 ]
